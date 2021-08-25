@@ -12,9 +12,10 @@
   - office_hours_python : forked from tech Academy for a drill - archived
   - developers : forked from tech academy for assigment - archived 
 
-- SFSU CS Assignments
+- SFSU Assignments
   - hw3-template : C++ assigment - archived
   - playground : CSC340-03-spring-2016 - archived
+  - processing-art-699 : independent study where art and coding was combined
 
 <!---
 jenjenayjen/jenjenayjen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

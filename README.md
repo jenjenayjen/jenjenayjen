@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jenny Louie aka @jenjenayjen.
+- 👋 Hi, I’m Jenny Louie.
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently learning UIUX Design at Tech Academy
 - 📫 How to reach me ...
--     Discord: Jenjenayjen#6792
+-     Discord: Jenay#6792
 
 - Tech Academy UIUX Boot Camp Repositories:
   - Tech-Academy-UIUX-Boot-Camp : UIUX Assignments and Live Project
